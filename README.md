@@ -4,16 +4,11 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
 
-  * Desenvolver um app de receitas, utilizando o que há de mais moderno dentro do ecossistema `React`: _Hooks_ e _Context API_. Nele será possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas. ⚠️ A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
-  * Criar a oportunidade de trabalhar em grupo usando kanban.
+  * Temos um aplicativo de `tarefas`! Esta aplicação precisa ser _conteinerizada_ com `Docker` para funcionar. Você deverá desenvolver os arquivos de configuração para cada frente específica: `Front-end`, `Back-end`.
   * Verificar se eu era capaz de:
-    * Utilizar `Redux` para gerenciar estado.
-    * Utilizar a biblioteca `React-Redux`.
-    * Utilizar a `Context API` do `React` para gerenciar estado.
-    * Utilizar o `React Hook useState`.
-    * Utilizar o `React Hook useContext`.
-    * Utilizar o `React Hook useEffect`.
-    * Criar `Hooks` customizados.
+    * Conteinerizar aplicações.
+    * Criar uma conexão entre elas.
+    * Orquestrar seu funcionamento.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
