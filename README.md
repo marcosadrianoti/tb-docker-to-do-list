@@ -55,25 +55,8 @@ Instale as dependências executando:
 npm install
 ```
 
-Execute a aplicação:
-
-```bash
-npm run start
-```
-
 Para executar os testes, É necessário ter o [Docker](https://www.docker.com/) instalado corretamente na sua máquina:
 
 ```bash
 npm run test
-```
-
-Para executar os testes de cobertura:
-
-```bash
-npm run test-coverage
-```
-Para executar os testes com o Cypress:
-
-```bash
-npm run cy:open
 ```
