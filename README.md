@@ -40,13 +40,13 @@ cd meu-diretorio
 Clone o projeto com o comando `git clone`:
 
 ```bash
-git clone git@github.com:marcosadrianoti/tb-recipes-app.git
+git clone git@github.com:marcosadrianoti/tb-docker-to-do-list.git
 ```
 
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd tb-recipes-app
+cd tb-docker-to-do-list
 ```
 
 Instale as dependências executando:
@@ -61,7 +61,7 @@ Execute a aplicação:
 npm run start
 ```
 
-Para executar os testes:
+Para executar os testes, É necessário ter o [Docker](https://www.docker.com/) instalado corretamente na sua máquina:
 
 ```bash
 npm run test
